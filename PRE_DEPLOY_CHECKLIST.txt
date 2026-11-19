@@ -1,0 +1,13 @@
+AC FURNITURES — CLIENT APPROVAL CHECKLIST
+
+[ ] Client approves the AC Furnitures branding and visual direction.
+[ ] Client approves the clean illustrative product visuals; they are not photographs of exact stock.
+[ ] Confirm current prices, product names, sizes, materials, colours and stock.
+[ ] Confirm whether the $160 three-door wardrobe has the pictured mirror/drawer configuration.
+[ ] Add a cleaned kitchen-unit photo and confirm its catalogue details before listing it.
+[ ] Confirm the +263 77 306 7800 WhatsApp number.
+[ ] Confirm the Willowvale Road location pin and Corner Hyglen & Willowvale landmark.
+[ ] Confirm free Harare delivery and payment-on-delivery wording.
+[ ] Confirm whether “open 24 hours” is accurate for customer visits or only the WhatsApp profile listing.
+[ ] Test on Android Chrome, iPhone Safari and desktop browsers.
+[ ] Run npm run build successfully before deploying.

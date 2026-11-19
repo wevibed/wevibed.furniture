@@ -1,0 +1,22 @@
+AC FURNITURES WEBSITE — LOCAL TEST
+
+1. Extract the ZIP to a normal folder.
+2. Open Command Prompt in that folder.
+3. Run:
+   npm install
+   npm run dev
+4. Open the Local URL printed by Vite, usually http://localhost:5173
+5. Test the Gallery, each product card, product details, WhatsApp enquiry, and Showroom/Gallery switch.
+6. Test on a phone over the same Wi-Fi using the Network URL Vite prints.
+
+Production check:
+   npm run build
+   npm run preview
+
+Cloudflare Pages:
+- Framework preset: Vite
+- Build command: npm run build
+- Build output directory: dist
+- Root directory: project root
+
+The interactive showroom uses WebGL. If a phone cannot initialise WebGL, the site provides a photo-gallery fallback.

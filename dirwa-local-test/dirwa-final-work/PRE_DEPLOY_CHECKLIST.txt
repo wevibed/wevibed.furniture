@@ -1,0 +1,38 @@
+DIRWA FURNITURE — PRE-DEPLOY / CLIENT APPROVAL CHECKLIST
+
+TECHNICAL CANDIDATE
+[✓] React + Vite project structure at archive root
+[✓] 90 product photo entries across seven categories
+[✓] Product detail panel and WhatsApp enquiry flow
+[✓] On-demand category-level 3D concept preview for each gallery entry
+[✓] WA0008 cream L-shaped sofa model wired to its reference photo
+[✓] Mobile graphics profile and photo-based showroom fallback
+[✓] Responsive small-screen typography and two-column gallery layout
+[✓] Syntax parsing and local asset/import checks completed
+[ ] npm install / npm run build — not verified here; npm install timed out in this environment and Vite is not installed locally
+[ ] Real-device QA: Android Chrome, Android Edge, iPhone Safari, desktop Chrome/Edge/Firefox
+
+CLIENT CONTENT APPROVAL
+[ ] Clean remaining 82 source photos or request original files without text/watermarks
+[ ] Review eight first-pass cleaned/cropped photos for acceptable framing
+[ ] Confirm that the 90 selected photos represent 90 distinct products (check repeats)
+[ ] Confirm official product names and item codes
+[ ] Confirm all prices and any price ranges (prices are currently hidden)
+[ ] Confirm dimensions, upholstery/materials, finishes and warranty for each product
+[ ] Confirm current availability / made-to-order status
+[✓] Business-profile screenshot supplied: 10251 Willowvale Road, Harare, Zimbabwe; landmark Highglen Road / Willowvale Road opposite Kidcamp
+[✓] Business-profile screenshot supplies +263 71 802 2928 as main phone / WhatsApp and +263 78 308 9538 for EcoCash
+[✓] Business-profile screenshot supplies munashedirwa0@gmail.com
+[ ] Confirm the address, contacts and email with Dirwa before final launch
+[ ] Confirm delivery coverage and pay-on-delivery terms before displaying stronger promises
+[ ] Confirm whether “open 24 hours” is accurate staffed opening time; current site labels it as listing information
+
+3D ACCURACY
+[ ] The WA0008 model is a procedural first-pass reconstruction, not a measured replica
+[ ] The other 89 catalogue entries use reusable category-level 3D concept models
+[ ] Capture front, side, rear and detail photos plus dimensions for exact SKU models
+[ ] Test performance on lower-end Android devices before promising full 3D support
+
+COMMERCE SCOPE
+This site is configured for WhatsApp enquiries. It does not include online checkout, payment
+processing, inventory management or order administration. Add those only if separately scoped.

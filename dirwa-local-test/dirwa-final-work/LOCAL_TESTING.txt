@@ -1,0 +1,40 @@
+DIRWA FURNITURE WEBSITE — LOCAL TEST
+
+This ZIP is structured with package.json at the archive root. Extract it into a folder,
+then open Command Prompt in that folder (the same folder where package.json is visible).
+
+1. Confirm the project root:
+   dir package.json
+
+2. Install dependencies:
+   npm install
+
+3. Start the development server:
+   npm run dev
+
+4. Open the Local URL printed by Vite (normally http://localhost:5173).
+
+5. Verify production compilation:
+   npm run build
+
+DEPLOY TO CLOUDFLARE PAGES
+- Framework preset: Vite
+- Build command: npm run build
+- Build output directory: dist
+- Root directory: / (project root)
+- Node: 18+ recommended
+
+CURRENT CONTENT
+- 90 product photographs in seven gallery categories.
+- Eight first-pass cleaned images; the other source photographs may still contain
+  catalogue numbers or watermarks and need the final retouching pass before public launch.
+- Each gallery product has an on-demand, draggable, category-level 3D concept preview.
+- WA0008 (DIRWA-0008) is mapped to the dedicated cream L-shaped sofa reconstruction.
+- The 3D room has a mobile graphics profile and an image-gallery fallback if WebGL fails.
+- The product enquiry CTA uses Dirwa's catalogue WhatsApp number +263 71 802 2928.
+- Prices are hidden until Dirwa confirms them.
+
+IMPORTANT
+The 3D previews are visual category concepts, not verified exact replicas for every SKU.
+Additional angles and measurements are needed for exact product models. The gallery also
+uses neutral reference names until Dirwa confirms official names, prices and specifications.
